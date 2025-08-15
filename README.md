@@ -1,2 +1,2 @@
 # Calculator
-A straightforward and efficient calculator for all your essential math needs. Its intuitive interface and reliable performance makes it perfect for students, professionals, and everyday use. Tackle basic arithmetic and memory functions with ease.
+A straightforward and user-friendly calculator built with the Tkinter library. This application provides essential arithmetic functionality with a clean and intuitive graphical interface. It's a perfect example of a basic yet reliable desktop utility, demonstrating core concepts of GUI development in Python.
